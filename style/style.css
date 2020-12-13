@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(0, 0, 0);
+    background-image: url(http://www.cvhldgs.com/wp-content/uploads/2017/03/bg.jpg);
+}
+
+h1{
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+    border: dodgerblue;
+    border-radius: 10%;
+    border-style: outset;
+}
+img{
+    width:10%;
+    height:20%;
+    background-color: lightblue;
+    border: dodgerblue;
+    border-radius: 10%;
+    border-style: outset;
+}
+h2{
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+    border: dodgerblue;
+    border-radius: 10%;
+    border-style: outset;
+    text-align: center0;
+    font-size: 200%;
+    font-weight: bolder;
+   
+}
+h3{
+    color: blanchedalmond;
+    background-color: black;
+    border: dodgerblue;
+    border-radius: 10%;
+    border-style: outset;
+}
+p{
+    color: blanchedalmond;
+    background-color: black;
+    border: dodgerblue;
+    border-radius: 10%;
+    border-style: outset;
+    margin-right: 50%;
+}
+div{
+    color: blanchedalmond;
+    background-color: black;
+    border: dodgerblue;
+  margin-right: 50%;
+    border-style: outset;
+}
